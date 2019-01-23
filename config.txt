@@ -1,0 +1,6 @@
+token=NTM1NDA4NzY2MzUxNTczMDAy.DyH_-w.abGl4sWSPqC9gvXZxy2i614MsTg
+owner=525749212198207508
+prefix=Ah
+game=Type Ahhelp
+stayinchannel=true
+songinstatus=true
