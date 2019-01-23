@@ -1,4 +1,4 @@
-token=NTM1NDA4NzY2MzUxNTczMDAy.DyH_-w.abGl4sWSPqC9gvXZxy2i614MsTg
+token=NTM3NzA1OTkyNzI1NzI1MTk0.DypJiQ.J2FxI7DEyyiI8bmu6lmP3EXpF5k
 owner=525749212198207508
 prefix=Ah
 game=Type Ahhelp
